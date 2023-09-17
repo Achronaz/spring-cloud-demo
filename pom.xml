@@ -26,6 +26,7 @@
         <module>inventory</module>
         <module>order</module>
         <module>user</module>
+        <module>gateway</module>
     </modules>
 
     <dependencies>
